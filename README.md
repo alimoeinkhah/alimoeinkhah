@@ -13,7 +13,7 @@
   ·
   <a href="mailto:alimoeinkhah@gmail.com">Email</a>
   ·
-  <a href="https://github.com/alimoeinkhah?tab=repositories">Project Portfolio</a>
+  <a href="https://github.com/alimoeinkhah?tab=repositories">GitHub Projects</a>
 </p>
 
 ---
