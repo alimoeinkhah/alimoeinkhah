@@ -177,4 +177,4 @@ Machine-learning proof of concept for predictive maintenance of industrial equip
 
 - **LinkedIn:** [linkedin.com/in/ali-moeinkhah](https://www.linkedin.com/in/ali-moeinkhah)
 - **Email:** [alimoeinkhah@gmail.com](mailto:alimoeinkhah@gmail.com)
-- **Location:** Milan, Italy)
+- **Location:** (Milan, Italy)
